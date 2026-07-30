@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/akash-yadav-5159/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/akash-yadav-5159/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/akash-yadav-5159/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/akash-yadav-5159/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0090-subsets-ii) |
 ## Combinatorics
