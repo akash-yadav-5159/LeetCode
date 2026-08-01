@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akash-yadav-5159/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/akash-yadav-5159/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/akash-yadav-5159/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Segment Tree
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akash-yadav-5159/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/akash-yadav-5159/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Combinatorics
 |  |
 | ------- |
