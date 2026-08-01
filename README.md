@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akash-yadav-5159/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/akash-yadav-5159/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0047-permutations-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akash-yadav-5159/LeetCode/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/0496-next-greater-element-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akash-yadav-5159/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/akash-yadav-5159/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0052-n-queens-ii) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akash-yadav-5159/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
