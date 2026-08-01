@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/akash-yadav-5159/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/akash-yadav-5159/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akash-yadav-5159/LeetCode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/akash-yadav-5159/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0090-subsets-ii) |
 ## Combinatorics
 |  |
@@ -119,9 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
