@@ -29,7 +29,7 @@ class Solution {
             return solver(board,nextrow,nextcol);
         }
         for(char digit='1';digit<='9';digit++){
-            if(isSafe(board,row,col,(char)digit)){
+            if(isSafe(board,row,col,digit)){
                 board[row][col]=digit;
                 if(solver(board,nextrow,nextcol)){
                     return true;
