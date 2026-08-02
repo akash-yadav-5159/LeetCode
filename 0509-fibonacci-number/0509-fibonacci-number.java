@@ -7,7 +7,7 @@ class Solution {
         if(dp[n]!=-1){
             return dp[n];
         }
-        return (recu(n-1,dp)+recu(n-2,dp));
+        return dp[n]=(recu(n-1,dp)+recu(n-2,dp));
     }
     public int fib(int n) {
         int dp[]=new int[n+1];
