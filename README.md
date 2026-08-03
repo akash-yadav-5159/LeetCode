@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akash-yadav-5159/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/akash-yadav-5159/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/akash-yadav-5159/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akash-yadav-5159/LeetCode/tree/master/0139-word-break) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/akash-yadav-5159/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/akash-yadav-5159/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/akash-yadav-5159/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akash-yadav-5159/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/akash-yadav-5159/LeetCode/tree/master/0198-house-robber) |
