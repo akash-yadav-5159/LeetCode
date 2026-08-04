@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/akash-yadav-5159/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/akash-yadav-5159/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/akash-yadav-5159/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/akash-yadav-5159/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akash-yadav-5159/LeetCode/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/akash-yadav-5159/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/akash-yadav-5159/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/akash-yadav-5159/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/akash-yadav-5159/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/akash-yadav-5159/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akash-yadav-5159/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/akash-yadav-5159/LeetCode/tree/master/0198-house-robber) |
