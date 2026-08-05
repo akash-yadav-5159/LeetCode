@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akash-yadav-5159/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/akash-yadav-5159/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akash-yadav-5159/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/akash-yadav-5159/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/akash-yadav-5159/LeetCode/tree/master/0091-decode-ways) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akash-yadav-5159/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/akash-yadav-5159/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akash-yadav-5159/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akash-yadav-5159/LeetCode/tree/master/0509-fibonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/akash-yadav-5159/LeetCode/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
