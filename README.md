@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/akash-yadav-5159/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/akash-yadav-5159/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0090-subsets-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/akash-yadav-5159/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/akash-yadav-5159/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/akash-yadav-5159/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/akash-yadav-5159/LeetCode/tree/master/0091-decode-ways) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/akash-yadav-5159/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
