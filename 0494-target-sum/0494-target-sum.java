@@ -1,32 +1,56 @@
+import java.util.Arrays;
+
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        int sum=0;
-        for(int ele:nums){
-            sum+=ele;
+        int totalSum = 0;
+        for (int num : nums) {
+            totalSum += num;
         }
-        if(Math.abs(target)>sum) return 0;
-        Integer dp[][]=new Integer[nums.length+1][2*sum+1];
-        // Shuruwat index 0 aur current sum 0 se karte hain
-        return solve(nums, target, 0, 0,dp,sum);
+
+        // Edge Cases:
+        // 1. Agar target totalSum se bada hai toh possible nahi hai.
+        // 2. target + totalSum agar odd hai, toh usko 2 se divide nahi kar sakte (invalid).
+        // 3. (target + totalSum) negative bhi nahi hona chahiye.
+        if (Math.abs(target) > totalSum || (totalSum + target) % 2 != 0 || (totalSum + target) < 0) {
+            return 0;
+        }
+
+        int s1 = (totalSum + target) / 2;
+
+        // DP array initialize karo (Tumhara favourite style)
+        int[][] dp = new int[s1 + 1][nums.length + 1];
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+
+        return countSubsets(nums, s1, 0, dp);
     }
-    
-    private int solve(int[] nums, int target, int index, int currentSum,Integer dp[][],int sum) {
-        // Base Case: Agar humne saare numbers process kar liye (array ke end par)
+
+    public int countSubsets(int[] nums, int targetSum, int index, int[][] dp) {
+        // Base case: Jab end par pahunchein
         if (index == nums.length) {
-            if (currentSum == target) {
-                return 1;  // Ek sahi combination mil gaya
-            } else {
-                return 0;  // Ye combination target nahi bana paya
+            if (targetSum == 0) {
+                return 1;
             }
+            return 0;
         }
+
+        if (targetSum < 0) {
+            return 0;
+        }
+
+        if (dp[targetSum][index] != -1) {
+            return dp[targetSum][index];
+        }
+
+        // Pick the current element
+        int pick = countSubsets(nums, targetSum - nums[index], index + 1, dp);
         
-        // Choice 1: Current number ke aage '+' lagao (add)
-        int add = solve(nums, target, index + 1, currentSum + nums[index],dp,sum);
-        
-        // Choice 2: Current number ke aage '-' lagao (subtract)
-        int subtract = solve(nums, target, index + 1, currentSum - nums[index],dp,sum);
-        
-        // Dono choices se milne wale total valid tariko ko add kar do
-        return dp[index][currentSum+sum]=add + subtract;
+        // Skip the current element
+        int skip = countSubsets(nums, targetSum, index + 1, dp);
+
+        // Store and return total ways
+        dp[targetSum][index] = pick + skip;
+        return dp[targetSum][index];
     }
 }
