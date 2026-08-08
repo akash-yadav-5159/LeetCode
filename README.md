@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/akash-yadav-5159/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/akash-yadav-5159/LeetCode/tree/master/0046-permutations) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/akash-yadav-5159/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/akash-yadav-5159/LeetCode/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/0496-next-greater-element-i) |
