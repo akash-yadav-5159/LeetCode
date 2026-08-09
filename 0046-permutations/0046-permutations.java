@@ -1,28 +1,28 @@
-import java.util.*;
 class Solution {
-    public void helper(int index, int[] nums, List<List<Integer>> ans) {
-        if (index == nums.length) {
-            List<Integer> ds = new ArrayList<>();
-            for (int i = 0; i < nums.length; i++) {
-                ds.add(nums[i]);
-            }
-            ans.add(ds);
+    public void fun(List<Integer> in, List<Integer> op,
+                    List<List<Integer>> ans) {
+        // Base condition
+        if (in.size() == 0) {
+            ans.add(new ArrayList<>(op));
             return;
         }
-        for (int i = index; i < nums.length; i++) {
-            swap(i, index, nums);
-            helper(index + 1, nums, ans);
-            swap(i, index, nums);
+        for (int i = 0; i < in.size(); i++) {
+            int k = in.get(i);
+            op.add(k);          // choose
+            in.remove(i);       // erase
+            fun(in, op, ans);   // recursion
+            in.add(i, k);       // insert back
+            op.remove(op.size() - 1);  // backtrack
         }
     }
-    private void swap(int i, int j, int[] nums) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
-    }
     public List<List<Integer>> permute(int[] nums) {
+        List<Integer> in = new ArrayList<>();
+        for (int num : nums) {
+            in.add(num);
+        }
+        List<Integer> op = new ArrayList<>();
         List<List<Integer>> ans = new ArrayList<>();
-        helper(0, nums, ans);
+        fun(in, op, ans);
         return ans;
     }
 }
