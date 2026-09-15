@@ -17,6 +17,7 @@ class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         boolean vis[][]=new boolean[image.length][image[0].length];
         int comp=image[sr][sc];
+        if(comp==color)return image;
         dfs(image,vis,sr,sc,comp);
         for(int i=0;i<image.length;i++){
             for(int j=0;j<image[0].length;j++){
