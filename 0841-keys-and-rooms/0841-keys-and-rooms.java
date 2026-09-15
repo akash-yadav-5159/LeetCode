@@ -1,5 +1,5 @@
 class Solution {
-    int count;
+    static int count;
     public void dfs(List<List<Integer>> rooms,boolean vis[],int source){
         count++;
         vis[source]=true;
