@@ -1,9 +1,9 @@
 class Solution {
     public boolean dfs(int source, ArrayList<ArrayList<Integer>>graph, int dest,boolean vis[]){
+        if(source==dest)return true;
         vis[source]=true;
         for(int i=0;i<graph.get(source).size();i++){
             if(!vis[graph.get(source).get(i)]){
-                if(graph.get(source).get(i)==dest)return true;
                 if(dfs(graph.get(source).get(i),graph,dest,vis)){
                     return true;
                 }
@@ -21,8 +21,6 @@ class Solution {
             graph.get(edges[i][1]).add(edges[i][0]);
         }
         boolean vis[]=new boolean[n];
-        if(source==destination)return true;
-        if(graph.get(source).size()==0)return false;
         return dfs(source,graph,destination,vis);
     }
 }
