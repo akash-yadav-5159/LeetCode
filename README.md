@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/akash-yadav-5159/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akash-yadav-5159/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/akash-yadav-5159/LeetCode/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/akash-yadav-5159/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/akash-yadav-5159/LeetCode/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/akash-yadav-5159/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akash-yadav-5159/LeetCode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/akash-yadav-5159/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/akash-yadav-5159/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akash-yadav-5159/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/akash-yadav-5159/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-yadav-5159/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/akash-yadav-5159/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/akash-yadav-5159/LeetCode/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/akash-yadav-5159/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akash-yadav-5159/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/akash-yadav-5159/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-yadav-5159/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/akash-yadav-5159/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/akash-yadav-5159/LeetCode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-yadav-5159/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
