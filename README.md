@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/akash-yadav-5159/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/akash-yadav-5159/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/akash-yadav-5159/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/akash-yadav-5159/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/akash-yadav-5159/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Depth-First Search
 |  |
 | ------- |
