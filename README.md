@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/akash-yadav-5159/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/akash-yadav-5159/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-yadav-5159/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akash-yadav-5159/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/akash-yadav-5159/LeetCode/tree/master/0740-delete-and-earn) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -215,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/akash-yadav-5159/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/akash-yadav-5159/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/akash-yadav-5159/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/akash-yadav-5159/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Depth-First Search
 |  |
