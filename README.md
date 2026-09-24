@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akash-yadav-5159/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/akash-yadav-5159/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/akash-yadav-5159/LeetCode/tree/master/0046-permutations) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akash-yadav-5159/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akash-yadav-5159/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
