@@ -10,9 +10,7 @@ class Solution {
             currMin=Math.min(num,currMin+num);
             minSum=Math.min(currMin,minSum);
         }
-        maxSum=Math.abs(maxSum);
-        minSum=Math.abs(minSum);
-        int ans=Math.max(maxSum,minSum);
+        int ans=Math.max(maxSum,Math.abs(minSum));
         return ans;
     }
 }
