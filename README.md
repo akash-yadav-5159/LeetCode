@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/akash-yadav-5159/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-yadav-5159/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akash-yadav-5159/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/akash-yadav-5159/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akash-yadav-5159/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Segment Tree
 |  |
 | ------- |
