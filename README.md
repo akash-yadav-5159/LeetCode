@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akash-yadav-5159/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akash-yadav-5159/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akash-yadav-5159/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/akash-yadav-5159/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/akash-yadav-5159/LeetCode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/0174-dungeon-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/akash-yadav-5159/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/akash-yadav-5159/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/akash-yadav-5159/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akash-yadav-5159/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/akash-yadav-5159/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akash-yadav-5159/LeetCode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/0174-dungeon-game) |
