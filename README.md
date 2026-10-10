@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/akash-yadav-5159/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/akash-yadav-5159/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/akash-yadav-5159/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akash-yadav-5159/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/akash-yadav-5159/LeetCode/tree/master/0740-delete-and-earn) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/akash-yadav-5159/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/akash-yadav-5159/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akash-yadav-5159/LeetCode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/akash-yadav-5159/LeetCode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/akash-yadav-5159/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akash-yadav-5159/LeetCode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-yadav-5159/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
