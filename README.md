@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akash-yadav-5159/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akash-yadav-5159/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/akash-yadav-5159/LeetCode/tree/master/0740-delete-and-earn) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akash-yadav-5159/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akash-yadav-5159/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/akash-yadav-5159/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash-yadav-5159/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Queue
 |  |
