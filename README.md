@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akash-yadav-5159/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akash-yadav-5159/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/akash-yadav-5159/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/akash-yadav-5159/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/akash-yadav-5159/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/akash-yadav-5159/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/akash-yadav-5159/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akash-yadav-5159/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash-yadav-5159/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/akash-yadav-5159/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/0643-maximum-average-subarray-i) |
