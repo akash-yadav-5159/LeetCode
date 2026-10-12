@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akash-yadav-5159/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akash-yadav-5159/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akash-yadav-5159/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akash-yadav-5159/LeetCode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/akash-yadav-5159/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0494-target-sum) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/akash-yadav-5159/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/akash-yadav-5159/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akash-yadav-5159/LeetCode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/akash-yadav-5159/LeetCode/tree/master/0509-fibonacci-number) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-yadav-5159/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-yadav-5159/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akash-yadav-5159/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/akash-yadav-5159/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
